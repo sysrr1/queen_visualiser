@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/queen_visualiser/static/css/main.b98f02f2.css",
+    "main.js": "/queen_visualiser/static/js/main.08feebce.js",
+    "static/media/gfg.png": "/queen_visualiser/static/media/gfg.13ed2ed3deae559272e5.png",
+    "index.html": "/queen_visualiser/index.html",
+    "main.b98f02f2.css.map": "/queen_visualiser/static/css/main.b98f02f2.css.map",
+    "main.08feebce.js.map": "/queen_visualiser/static/js/main.08feebce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98f02f2.css",
+    "static/js/main.08feebce.js"
+  ]
+}
